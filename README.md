@@ -53,10 +53,14 @@
 
 
 ## Output:
+![1 1 (3)](https://github.com/Hariniii21/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147140423/6c67c25b-6313-4070-8dd0-0f85e49dfd3e)
+![1 2](https://github.com/Hariniii21/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147140423/9fbaa051-d526-444b-8fc2-c9bd62d5370f)
+![1 3](https://github.com/Hariniii21/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147140423/3c8d91c9-1c2b-4767-8d8c-0d863c7fed8f)
 
 
-### Name:
-### Register Number: 
+
+### Name:Harini. S
+### Register Number: 212223240048
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
